@@ -14,14 +14,25 @@ First published 2024-10-16
 It contains 28.863 different single characters, and 179.226 multi-character words.
 You can write any of the 5.000 most common characters without having to scroll,
 using a maximum of 4 keystrokes per character (plus selection using the number keys).
-It comes in to versions:
+It comes in two versions:
 劉碼繁 Liumafan for writing traditional characters, and
 刘码简 Liumajian for writing simplified characters.
 
-This project is written in Scala-3 and generates .yaml files to be used with the 
+The code used to generate the input method files is in this project: 
+`https://github.com/Weiqifan1/cjk-double-stroke-scala`
+The project is written in Scala-3 and generates .yaml files to be used with the 
 RIME input method engine: 
 https://rime.im/
 https://github.com/rime
+Here is an english laguage guide to use rime (using the zhengma input method as an example):
+`https://wiki.michaelhan.net/Hanja_IME`
+To install RIME on an android phone / tablet, here is one way you can do it:
+
+1: Download and install F-droid from the fdroid website on your android device.
+2: Open the Fdroid app, and wait for it to sync.
+3: Use the search button to search for Trime and install it.
+4: Open the Trime app and click "Request storage permission"
+
 
 To generate the needed files, uncomment the 
 test code in this file:
