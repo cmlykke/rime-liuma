@@ -5,18 +5,19 @@ author: 劉可力 / 刘可力 c m l y k k e - h o t m a i l - c o m
 
 ## Usage
 1. Edit and copy `default.custom.yaml` to your [RIME configuration directory](https://github.com/rime/home/wiki/RimeWithSchemata#rime-%E4%B8%AD%E7%9A%84%E6%95%B8%E6%93%9A%E6%96%87%E4%BB%B6%E5%88%86%E4%BD%88%E5%8F%8A%E4%BD%9C%E7%94%A8).
-2. Scheme files for simplified Chinese is in `zmhans`, while traditional Chinese is in `zmhant`.
+2. Copy and paste you desired .yaml files into the same folder 
+(the two liumafan or the two liumajian files or all four)
 
 ## Description
-Release: 1.0 - 2024-10-16
+Version: 1.1 - 2024-10-26
 First published 2024-10-16
-劉碼 / 刘码 Liuma is a shape-based input method for typing chinese that you can learn in 10 minutes.
-It contains 28.863 different single characters, and 179.226 multi-character words.
+劉碼 / 刘码 Liuma is a shape-based input system that you can learn in 10 minutes.
+It contains 28.320 different single characters, and 179.780 multi-character words.
 You can write any of the 5.000 most common characters without having to scroll,
-using a maximum of 4 keystrokes per character (plus selection using the number keys).
-It comes in two versions:
-劉碼繁 Liumafan for writing traditional characters, and
-刘码简 Liumajian for writing simplified characters.
+using only 4 keystrokes per character (plus selection using the number keys).
+It comes in to versions:
+劉碼繁 liumafan for writing traditional characters, and
+刘码简 liumajian for writing simplified characters.
 
 The code used to generate the input method files is in this project: 
 `https://github.com/Weiqifan1/cjk-double-stroke-scala`
@@ -32,7 +33,6 @@ To install RIME on an android phone / tablet, here is one way you can do it:
 2: Open the Fdroid app, and wait for it to sync.
 3: Use the search button to search for Trime and install it.
 4: Open the Trime app and click "Request storage permission"
-
 
 To generate the needed files, uncomment the 
 test code in this file:
