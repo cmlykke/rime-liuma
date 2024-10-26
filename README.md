@@ -5,7 +5,9 @@ author: 劉可力 / 刘可力 c m l y k k e - h o t m a i l - c o m
 
 ## Usage
 To use the files in this project, you first have to install the RIME input method engine:
+
 https://rime.im/
+
 https://github.com/rime
 
 More detailes:
