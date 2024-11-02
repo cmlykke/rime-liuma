@@ -33,7 +33,7 @@ However, the tradeoff is that you have a lot of collisions,
 so when writing a code you often have to scroll past the first 9 candidate characters,
 which is annoying and time-consuming.
 
-# Liumas attempt at a solution
+# Liuma's attempt at a solution
 
 Firs, the goal is to have a shape based input method that is easy to lean. 
 Second, you should be able to write all or almost all common characters 
