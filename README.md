@@ -18,7 +18,7 @@ It contains 29.482 different single characters, and 179.767 multi-character word
 (counting traditional and simplified separately).
 You can write any of the 5.000 most common characters without having to scroll,
 using only 4 letters per character (plus selection using the number keys).
-It comes in to versions:
+It comes in two versions:
 劉碼繁 liumafan where traditional characters are prioritized, and
 刘码简 liumajian where simplified characters are prioritized.
 
@@ -37,7 +37,7 @@ https://github.com/rime
 
 [Tutorial](instructions/TUTORIAL.md).
 
-## Generate .yaml files manually
+## Generate .yaml files yourself
 
 [Generate yaml files](instructions/GENERATE_NEW_YAML_FILES.md).
 

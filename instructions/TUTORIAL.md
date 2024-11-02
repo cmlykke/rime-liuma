@@ -1,4 +1,4 @@
-[[go to README](../README.md).
+[go to README](../README.md).
 
 # Introduction
 
