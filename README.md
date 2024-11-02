@@ -3,33 +3,39 @@
 
 author: 劉可力 / 刘可力 c m l y k k e - h o t m a i l - c o m
 
-## Usage
+Version: 1.2 - 2024-11-02
+
+First published 2024-10-16
+
+## Description
+
+The Liuma keyboard:
+
+![Liuma keyboard](images/liumakeyboard-v1-2.png)
+
+劉碼 / 刘码 Liuma is a shape-based input system that you can memorize in a few minutes.
+It contains 29.482 different single characters, and 179.767 multi-character words
+(counting traditional and simplified separately).
+You can write any of the 5.000 most common characters without having to scroll,
+using only 4 letters per character (plus selection using the number keys).
+It comes in to versions:
+劉碼繁 liumafan where traditional characters are prioritized, and
+刘码简 liumajian where simplified characters are prioritized.
+
+## RIME
 To use the files in this project, you first have to install the RIME input method engine:
 
 https://rime.im/
 
 https://github.com/rime
 
-More detailes:
+## Installation and tutorial
 
 [Install Liuma input on PC](instructions/INSTALL_ON_PC.md).
 
 [Install Liuma input on Android](instructions/INSTALL_ON_ANDROID.md).
 
-## Description
-
-Version: 1.1 - 2024-10-26
-
-First published 2024-10-16
-
-劉碼 / 刘码 Liuma is a shape-based input system that you can learn in 10 minutes.
-It contains 29.482 different single characters, and 179.767 multi-character words
-(counting traditional and simplified separately).
-You can write any of the 5.000 most common characters without having to scroll,
-using only 4 keystrokes per character (plus selection using the number keys).
-It comes in to versions:
-劉碼繁 liumafan for writing traditional characters, and
-刘码简 liumajian for writing simplified characters.
+[Tutorial](instructions/TUTORIAL.md).
 
 ## Generate .yaml files manually
 
