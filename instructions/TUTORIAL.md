@@ -35,7 +35,7 @@ which is annoying and time-consuming.
 
 # Liuma's attempt at a solution
 
-Firs, the goal is to have a shape based input method that is easy to lean. 
+First, the goal is to have a shape based input method that is easy to lean. 
 Second, you should be able to write all or almost all common characters 
 without having to scroll through a list of candidates.
 For a RIME system, this means that there should be no more than 9 common characters
@@ -149,7 +149,7 @@ notice that the last shape 匕 can be written either as **D** 乙 + 丿 or as **
 So you could also write 跐 as jnnm if you want. Many characters can be written in different ways if the 
 stroke order is not 100% clear.
 - 眬 **KKDT** - k here stands for 目 rather than 一 + 丿. **KDT** stands for the 5 strokes in 龙. The letter **T** 
-stands for the last 丶. This is because when you write only a single stroke, you use the letter that 一 as is second
+stands for the last 丶. This is because when you write only a single stroke, you use the letter that has 一 as is second
 stroke. These are the keys T,Y,G,H and N.
 - 揂 **LEJH** - l here stands for 扌 rather than 一 + 丶. **EJH** stands for the first 4 and last two strokes in 酋.
 

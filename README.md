@@ -22,6 +22,9 @@ It comes in to versions:
 劉碼繁 liumafan where traditional characters are prioritized, and
 刘码简 liumajian where simplified characters are prioritized.
 
+If you find any bugs or have any comments about the system, feel free to write to 
+the author at c m l y k k e - h o t m a i l - c o m.
+
 ## Tutorial
 
 [Tutorial](instructions/TUTORIAL.md).
