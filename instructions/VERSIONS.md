@@ -18,7 +18,7 @@ Added 手 as a character that be writte with l in addition to 扌.
 Added 竹 and ⺮ as characters that can be written with f.
 Also added varius radical characters to be written with one letter.
 
-## 1.2 - 2024-11-02
+## 1.2 - 2024-11-04
 
 Fixed an error where two-character words were written with the first and last 
 single character keystrokes, rather than the first code letter and the last two brushstrokes.

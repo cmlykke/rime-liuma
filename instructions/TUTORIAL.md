@@ -41,7 +41,7 @@ without having to scroll through a list of candidates.
 For a RIME system, this means that there should be no more than 9 common characters
 that share the same code.
 Third, the maximum number of keystrokes needed to write a character should be low,
-preferably no more than 4-5, like with Wubi and Cangjie.
+preferably no more than 4-5 like with Wubi and Cangjie.
 
 Liuma attempt to solve this by having each key write two strokes.
 All characters can be broken up into a list of 5 strokes:
@@ -53,8 +53,8 @@ two-stroke combination.
 
 In Liuma, the combinations are placed such that 
 combinations that start with the same strokes 
-are put together on the same line, ordered with the horizontal stroke near the center
-, then vertical, left-slanted, right-slanted and bent words towards the sides of the keyboard, 
+are put together on the same line, ordered with the horizontal stroke near the center, 
+then vertical, left-slanted, right-slanted and bent stroke towards the sides of the keyboard, 
 as you can see on the keyboard below:
 
 ![Liuma keyboard](../images/liumakeyboard-v1-2.png)
@@ -100,7 +100,7 @@ Part of the goal of Liuma is that almost all common characters should be written
 without scrolling. The most common 5.000 was chosen as the target.
 This means that when ever you write a code, no character among the most
 common 5.000 should be beyond the first 9 character options shown.
-The most 5.000 was picked as a target because it provided 
+The most common 5.000 was picked as a target because it provided 
 a good balance between coverage and the number of extra rules that needs to be menorized. 
 If the target had been 6.000 or greater, Liuma would have been significantly harder to learn
 without much extra benefit. For example, for singlified characters and using Liumajian, these are the only characters
@@ -117,7 +117,7 @@ Notice that the most common of these, 題, is the traditional form of 题. The c
 without scrolling.
 
 For traditional characters, using Liumafan, it looks like this:
-(Using the frequency here: http://technology.chtsai.org/charfreq/sorted.html)
+(Using the frequency list here: http://technology.chtsai.org/charfreq/sorted.html)
 
 - jnxo  鞅 5412, 顴 5454, 茦 5879,
 - kxho  饜 5477, 戛 5769,
@@ -125,9 +125,9 @@ For traditional characters, using Liumafan, it looks like this:
 - xhjo  暪 5811,
 - wjgo  漯 5821,
 
-The approach on having each key stand for two strokes goes a long way to avoid character collisions,
-but it is not enough to achieve the target og 5.000. For both simplified and traditional characters,\
-there are too many that start with the following shapes:
+The approach of having each key stand for two strokes goes a long way to avoid character collisions,
+but it is not enough to achieve the target of 5.000. For both simplified and traditional characters,\
+there are too many that start with the following shapes/elements:
 
 虫 木 ⺮ ⻊目 扌.
 
@@ -138,30 +138,33 @@ For aesthetic reasons, I chose to also let the characters: 竹 足 手 be writte
 with the relevant keys as well as ⺮ ⻊and 扌.
 
 Here are som examples:
-- 蚜 **SMV**  - s here stands for 虫 rather than 乙 + 丶. **mv** stands for the 4 strokes in 牙.
-- 棧 **DMEE** - d here stands for 木 rather than 乙 + 丿. **mee** stands for the first 4 and last 2 strokes in 戔.  
-- fwgo	筞
+- 蚜 **SMVZ**  - s here stands for 虫 rather than 乙 + 丶. **mv** stands for the 4 strokes in 牙. The **Z** at the end is added 
+to the code to make the code four letters long.
+- 棧 **DMEE** - d here stands for 木 rather than 乙 + 丿. **mee** stands for the first 4 and last 2 strokes in 戔.
 - 筞 **FWGO** - f here stands for ⺮ rather than 乙 + 亅. **wgo** stands for the first 4 and last two strokes in 宋.
 as you can see from 筞, when for example 木 occur later, it is not written with the **D** key.
 Instead it is written with strokes as normal. Another example is 林 which is written **DJO** not **DD**.
 - 跐 **JNND** - j here stands for ⻊ rather than 一 + 亅. **nnd** stands for the first 4 and last two strokes in 此
 notice that the last shape 匕 can be written either as **D** 乙 + 丿 or as **M** 一 + 乙. 
 So you could also write 跐 as jnnm if you want. Many characters can be written in different ways if the 
-strokeorder is not 100% clear.
-- 眬 **KKDT** - k here stands for 目 rather than 一 + 丿. **KDT** stands for the 5 strokes in 龙.  
+stroke order is not 100% clear.
+- 眬 **KKDT** - k here stands for 目 rather than 一 + 丿. **KDT** stands for the 5 strokes in 龙. The letter **T** 
+stands for the last 丶. This is because when you write only a single stroke, you use the letter that 一 as is second
+stroke. These are the keys T,Y,G,H and N.
 - 揂 **LEJH** - l here stands for 扌 rather than 一 + 丶. **EJH** stands for the first 4 and last two strokes in 酋.
 
 For traditional characters, there are even more such elements that create a large number of overlaps.
+You can find the elements used to write traditional characters on the top row of the keyboard.
 Here are some examples that each follow the same pattern as described above:
 
 駝 **WWAY**, 軛 **EKA**, 鉐 **RKXH**, 絀 **UFXN**, 諚 **IWGO**, 饀 **OIWH**, 閶 **PXHH**
 
 # Avoiding the special elements
 
-If you don't like these 13 special shapes, you also have the option of 
+If you don't like these 13 special shapes/elements, you also have the option of 
 writing characters without them. If you want to do that, 
 you have to write the first 10 strokes of the character, plus the last two.
-Here are the 7 traditional characters above, and the different ways they can be written with 6 keystrokes:
+Here are the 7 traditional characters above, and the different ways they can be written with 6 letters:
 
 - 駝 nhxwwp nhxwwd jhxwwp jhxwwd    
 - 軛 jghnpg
@@ -177,7 +180,7 @@ Many shape based input methods offer the option of not just
 writing individual characters, but whole words using relatively few keystrokes.
 In liuma, you do that by following the pattern below, using the
 characters 4-code. In order to write the multi-character words you therefore have to 
-remember the 13 special shapes.
+remember the 13 special shapes/elements.
 
 ## Two-character words: 
 You write the first two strokes (one letter) and last two strokes (one letter)
@@ -190,7 +193,7 @@ Examples:
 - 你好  uodmn uod
 - 泥孩  wmflo wdflo wpflo wmf wdf wpf
 - 問話  pgiyg pgihg pgi 
-(the first letters is p, because 門 is written with the p key, 
+(the first letter is p, because 門 is written with the p key, 
 the third letter is i because 言 is on the i key)
 
 ## Three-character words:
@@ -225,8 +228,6 @@ Examples:
 
 - 抗耐甲氧西林金葡菌  lkxyj
 - 攻击型核潜艇       jhhdw
-- 昆汀·塔伦提诺       xwzju
-(just like letters og the alphabet, the · character doesn't consist of 
+- 昆汀·塔伦提诺      xwzju
+(just like letters of the alphabet, the · character doesn't consist of 
 chinese strokes, so it is written with the letter z)
-
-
