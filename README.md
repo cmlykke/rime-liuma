@@ -7,6 +7,8 @@ Version: 1.2 - 2024-11-04
 
 First published 2024-10-16
 
+![Liuma colour illustration](images/LiumaColour.png)
+
 ## Description
 
 The Liuma keyboard:
