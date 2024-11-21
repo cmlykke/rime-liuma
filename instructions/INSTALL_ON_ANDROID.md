@@ -40,7 +40,7 @@ You then have to wait until the loading is finished:
 
 <img src="../images\android\a008_searchicon.jpg" width="600" height="400">
 
-9: CLick on it to search for Rime:
+9: CLick on it to search for "trime":
 
 <img src="../images\android\a009_lookforrime.jpg" width="600" height="400">
 
@@ -48,7 +48,7 @@ You then have to wait until the loading is finished:
 
 <img src="../images\android\a010_downloadrime.jpg" width="600" height="400">
 
-11: When installed, you should see the Rime icon:
+11: When installed, you should see the Trime icon:
 
 <img src="../images\android\a011_serimeicon.jpg" width="600" height="400">
 
