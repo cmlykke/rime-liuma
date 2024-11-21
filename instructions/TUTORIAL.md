@@ -226,6 +226,7 @@ You write the first two strokes of the first five characters.
 
 Examples:
 
+- 中华人民共和国     xuogj
 - 抗耐甲氧西林金葡菌  lkxyj
 - 攻击型核潜艇       jhhdw
 - 昆汀·塔伦提诺      xwzju
