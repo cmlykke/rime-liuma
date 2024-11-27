@@ -2,12 +2,13 @@
 
 # Introduction
 
-There are plenty of shape based input methods, so why create another one?
-Most of the existing methods takes a long time to learn. In exchange, you can write
-any character with only 4 keystrokes (eg. 五笔字型 wubi https://en.wikipedia.org/wiki/Wubi_method
-or 郑码 zhengma https://en.wikibooks.org/wiki/Zhengma_Input) or 5 keystrokes
-(仓颉 cangjie https://en.wikipedia.org/wiki/Cangjie_input_method). 
-But because these methods are hard to learn, most people don't bother learning them.
+There are many shape-based input methods, 
+so why create another one? Most existing methods take a long time to learn. 
+However, they allow you to write any character without knowing its pronunciation, 
+using only 4 keystrokes (e.g., 五笔字型 wubi [link](https://en.wikipedia.org/wiki/Wubi_method) 
+or 郑码 zhengma [link](https://en.wikibooks.org/wiki/Zhengma_Input)) 
+or 5 keystrokes (仓颉 cangjie [link](https://en.wikipedia.org/wiki/Cangjie_input_method)). 
+Due to the difficulty of learning these methods, most people don't bother with them.
 
 There has been at least two shape based methods that has been developed to be easy to learn:
 
@@ -49,7 +50,7 @@ Liuma attempt to solve this by having each key write two strokes.
 All characters can be broken up into a list of 5 strokes:
 horizontal 一, vertical 丨, left-slanted 丿, right-slanted 丶, and bent 乙.
 If you take all possible two-stroke combinations of these, you get 25 (5*5)
-possible combinations (一 + 一, 一 + 丨, 一 + 丿 ect.).
+possible combinations.
 You can then have each key on the keyboard write a different 
 two-stroke combination.
 
@@ -179,7 +180,7 @@ Here are the 7 traditional characters above, and the different ways they can be 
 - 饀 oqhsoh oqhsih oqhnkh omhsoh omhsih omhnkh
 - 閶 xhxhxh
 
-# Multi-character words
+# Multi-character words and phrases
 
 Many shape based input methods offer the option of not just
 writing individual characters, but whole words using relatively few keystrokes.
