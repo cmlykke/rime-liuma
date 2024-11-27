@@ -180,6 +180,22 @@ Here are the 7 traditional characters above, and the different ways they can be 
 - 饀 oqhsoh oqhsih oqhnkh omhsoh omhsih omhnkh
 - 閶 xhxhxh
 
+Overlaps for characters written with 6-codes:
+
+Simplified:
+
+There are now simplified characters in the frequency list where you have to scroll past the first 9 options.
+The first character in the simplified frequency list where you have to scroll is pxjlwo 鯕 7522 (which actually is
+the traditional version of 鲯) when using the frequency list here: https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO:
+
+Traditional:
+
+For Traditional characters, using the 6-codes, these are the characters among the most common 6.000 where you have to scoll 
+past the first 9 options when using the frequency list here: http://technology.chtsai.org/charfreq/sorted.html:
+
+- jhxwwo / nhxwwo  騾 5168, 驃 5281, 騄 5405, 
+
+
 # Multi-character words and phrases
 
 Many shape based input methods offer the option of not just
