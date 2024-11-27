@@ -4,8 +4,10 @@
 
 There are plenty of shape based input methods, so why create another one?
 Most of the existing methods takes a long time to learn. In exchange, you can write
-any character with only 4 keystrokes (eg. 五笔字型 wubi or 郑码 zhengma) or 5 (仓颉 cangjie). 
-Because these methods are hard to learn, most people don't bother learning them.
+any character with only 4 keystrokes (eg. 五笔字型 wubi https://en.wikipedia.org/wiki/Wubi_method
+or 郑码 zhengma https://en.wikibooks.org/wiki/Zhengma_Input) or 5 keystrokes
+(仓颉 cangjie https://en.wikipedia.org/wiki/Cangjie_input_method). 
+But because these methods are hard to learn, most people don't bother learning them.
 
 There has been at least two shape based methods that has been developed to be easy to learn:
 
@@ -17,10 +19,10 @@ and
 六碼筆畫 g6code
 http://www.miniapps.hk/g6code/
 
-The problem with wubihua is that it often takes much too many keystrokes to write a single character,
+The problem with wubihua is that it often takes far too many keystrokes to write a single character,
 as you can see here:
 https://raw.githubusercontent.com/rime/rime-stroke/refs/heads/master/stroke.dict.yaml
-for example, the code for the character 激 is nnnpszhhnhzpphpn.
+for example, the code for the character 激 is "nnnpszhhnhzpphpn".
 Often, you can get away with not typing that much, but on average it is still much more
 than most people can stand in the long run.
 
@@ -41,7 +43,7 @@ without having to scroll through a list of candidates.
 For a RIME system, this means that there should be no more than 9 common characters
 that share the same code.
 Third, the maximum number of keystrokes needed to write a character should be low,
-preferably no more than 4-5 like with Wubi and Cangjie.
+preferably no more than 4 like with Wubi and Zhengma.
 
 Liuma attempt to solve this by having each key write two strokes.
 All characters can be broken up into a list of 5 strokes:
@@ -103,7 +105,10 @@ common 5.000 should be beyond the first 9 character options shown.
 The most common 5.000 was picked as a target because it provided 
 a good balance between coverage and the number of extra rules that needs to be menorized. 
 If the target had been 6.000 or greater, Liuma would have been significantly harder to learn
-without much extra benefit. For example, for singlified characters and using Liumajian, these are the only characters
+without much extra benefit. Suppose you want to write characters among the 6.000
+most common: 
+
+For singlified characters and using Liumajian, these are the only characters
 among the most common 6.000 where you have to scroll to see them when using the Liuma 4-codes:
 (Using the frequency list here: https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO)
 
@@ -126,7 +131,7 @@ For traditional characters, using Liumafan, it looks like this:
 - wjgo  漯 5821,
 
 The approach of having each key stand for two strokes goes a long way to avoid character collisions,
-but it is not enough to achieve the target of 5.000. For both simplified and traditional characters,\
+but it was not enough to achieve the target of 5.000. For both simplified and traditional characters,\
 there are too many that start with the following shapes/elements:
 
 虫 木 ⺮ ⻊目 扌.
@@ -154,7 +159,7 @@ stroke. These are the keys T,Y,G,H and N.
 - 揂 **LEJH** - l here stands for 扌 rather than 一 + 丶. **EJH** stands for the first 4 and last two strokes in 酋.
 
 For traditional characters, there are even more such elements that create a large number of overlaps.
-You can find the elements used to write traditional characters on the top row of the keyboard.
+You can find the elements needed to write traditional characters on the top row of the keyboard.
 Here are some examples that each follow the same pattern as described above:
 
 駝 **WWAY**, 軛 **EKA**, 鉐 **RKXH**, 絀 **UFXN**, 諚 **IWGO**, 饀 **OIWH**, 閶 **PXHH**
@@ -181,6 +186,8 @@ writing individual characters, but whole words using relatively few keystrokes.
 In liuma, you do that by following the pattern below, using the
 characters 4-code. In order to write the multi-character words you therefore have to 
 remember the 13 special shapes/elements.
+
+All words are taken from the CC-Cedict open dictionary: https://www.mdbg.net/chinese/dictionary?page=cedict
 
 ## Two-character words: 
 You write the first two strokes (one letter) and last two strokes (one letter)
@@ -230,5 +237,5 @@ Examples:
 - 抗耐甲氧西林金葡菌  lkxyj
 - 攻击型核潜艇       jhhdw
 - 昆汀·塔伦提诺      xwzju
-(just like letters of the alphabet, the · character doesn't consist of 
+(just like numbers and letters of the alphabet, the · character doesn't consist of 
 chinese strokes, so it is written with the letter z)

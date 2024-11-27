@@ -17,7 +17,7 @@ Rime should show up. If it doesnt, try to restart the computer:
 <img src="../images\pc\rimeinstalled.jpg" width="600" height="400">
 
 2: Then go to the path: C:\Users\USER\AppData\Roaming\Rime
-and paste the Liumafan and/or Liumajian .yaml files to to folder (marked in red).
+and paste the Liumafan and/or Liumajian .yaml files to the folder (marked in red).
 
 <img src="../images\pc\pasteyamlfiles.jpg" width="750" height="300">
 
