@@ -184,7 +184,7 @@ Overlaps for characters written with 6-codes:
 
 Simplified:
 
-There are now simplified characters in the frequency list where you have to scroll past the first 9 options.
+There are no simplified characters in the frequency list where you have to scroll past the first 9 options.
 The first character in the simplified frequency list where you have to scroll is pxjlwo 鯕 7522 (which actually is
 the traditional version of 鲯) when using the frequency list here: https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO:
 
