@@ -256,3 +256,114 @@ Examples:
 - 昆汀·塔伦提诺      xwzju
 (just like numbers and letters of the alphabet, the · character doesn't consist of 
 chinese strokes, so it is written with the letter z)
+
+## Support for punctuation and special characters
+
+The chinese full-with comma and full-with period can be written with the comma and period keys on the keyboard.
+Other kinds of special characters, like the full-with space, can be written by pressing z first, and then maybe some other character
+after that. Below is an incomlete list of the special characters supported by Liuma. 
+You can see all of them in the .dict.yaml files in the folder rime-liuma\yamlFiles.
+
+| Code | Character |
+|------|-----------|
+| .    | 。         |
+| ,    | ，        |
+| z    | 　        |
+| z    | 。        |
+| z    | .         |
+| z    | ．        |
+| z    | ，        |
+| z    | ,         |
+| z    | 、        |
+| zx   | 　        |
+| zx   | 〃        |
+| zx   | “”        |
+| zx   | ‘’        |
+| zx   | （）       |
+| zx   | ？        |
+| zx   | ！        |
+| zx   | ：        |
+| zx   | ；        |
+| zxa  | 　        |
+| zxs  | 〃        |
+| zxd  | “”        |
+| zxf  | ‘’        |
+| zxg  | （）       |
+| zxh  | ？        |
+| zxj  | ！        |
+| zxk  | ：        |
+| zxl  | ；        |
+| zc   | 〇        |
+| zc   | ［］       |
+| zc   | 《》       |
+| zc   | 「」       |
+| zc   | ……        |
+| zc   | ·         |
+| zc   | 〻        |
+| zc   | 〃        |
+| zc   | 々        |
+| zca  | 〇        |
+| zcs  | ［］       |
+| zcd  | 《》       |
+| zcf  | 「」       |
+| zcg  | ……        |
+| zch  | ·         |
+| zcj  | 〻        |
+| zck  | 〃        |
+| zcl  | 々        |
+| zv   | ⸺        |
+| zv   | –         |
+| zv   | ……        |
+| zv   | ⋯        |
+| zv   | ·         |
+| zv   | ‧        |
+| zv   | 〜        |
+| zv   | ～        |
+| zv   | 〰        |
+| zva  | ⸺        |
+| zvs  | –         |
+| zvd  | ……        |
+| zvf  | ⋯        |
+| zvg  | ·         |
+| zvh  | ‧        |
+| zvj  | 〜        |
+| zvk  | ～        |
+| zvl  | 〰        |
+| zb   | ［］       |
+| zb   | 【】      |
+| zb   | 〖〗      |
+| zb   | 〈〉      |
+| zb   | 《》      |
+| zb   | 「」      |
+| zb   | 『』      |
+| zb   | 〔〕      |
+| zb   | ﹏﹏       |
+| zba  | ［］       |
+| zbs  | 【】      |
+| zbd  | 〖〗      |
+| zbf  | 〈〉      |
+| zbg  | 《》      |
+| zbh  | 「」      |
+| zbj  | 『』      |
+| zbk  | 〔〕      |
+| zbl  | ﹏﹏       |
+| zn   | 〇        |
+| zn   | ◯        |
+| zn   | ○        |
+| zn   | ●        |
+| zn   | ◎        |
+| zn   | ⭕️        |
+| zn   | ✗        |
+| zn   | ×        |
+| zn   | △        |
+| zna  | 〇        |
+| zns  | ◯        |
+| znd  | ○        |
+| znf  | ●        |
+| zng  | ◎        |
+| znh  | ⭕️        |
+| znj  | ✗        |
+| znk  | ×        |
+| znl  | △        |
+
+
