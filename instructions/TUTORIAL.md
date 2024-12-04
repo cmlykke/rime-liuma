@@ -96,11 +96,92 @@ so the code becomes **F**.
 
 # The full characters displayed on the keyboard
 
-As you can see from the keyboard, there are not just strokes but also characters listed:
-On the top row: 馬車金糸言食門 and on the middle row: 虫木竹足目手.
+The approach of having each key stand for two strokes goes a long way to avoid excessive character overlaps 
+(multiple characters that are written with the same code),
+but it was not enough. For both simplified and traditional characters, 
+there are too many that start with the following shapes/elements:
+
+虫 木 ⺮ ⻊目 扌.
+
+Therefore, six of the keys on the middle row have a dual purpose.
+They either stand for the two strokes like normal, or they
+stand for one of the six elements above. 
+The six keys are marked with one of these characters: 虫木竹足目手.
+For aesthetic reasons, I chose to also let the characters: 竹 足 手 be written
+with the relevant keys as well as their derived forms ⺮ ⻊and 扌.
+
+Here are som examples:
+- 蚜 **SMVZ**  - s here stands for 虫 rather than 乙 + 丶. **mv** stands for the 4 strokes in 牙. The **Z** at the end is added
+  to the code to make the code four letters long.
+- 棧 **DMEE** - d here stands for 木 rather than 乙 + 丿. **mee** stands for the first 4 and last 2 strokes in 戔.
+- 筞 **FWGO** - f here stands for ⺮ rather than 乙 + 亅. **wgo** stands for the first 4 and last two strokes in 宋.
+  as you can see from 筞, when for example 木 occur later, it is not written with the **D** key.
+  Instead it is written with strokes as normal. Another example is 林 which is written **DJO** not **DD**.
+- 跐 **JNND** - j here stands for ⻊ rather than 一 + 亅. **nnd** stands for the first 4 and last two strokes in 此
+  notice that the last shape 匕 can be written either as **D** 乙 + 丿 or as **M** 一 + 乙.
+  So you could also write 跐 as jnnm if you want. Many characters can be written in different ways if the
+  stroke order is not 100% clear.
+- 眬 **KKDT** - k here stands for 目 rather than 一 + 丿. **KDT** stands for the 5 strokes in 龙. The letter **T**
+  stands for the last 丶. This is because when you write only a single stroke, you use the letter that has 一 as is second
+  stroke. These are the keys T,Y,G,H and N.
+- 揂 **LEJH** - l here stands for 扌 rather than 一 + 丶. **EJH** stands for the first 4 and last two strokes in 酋.
+
+For traditional characters, there are even more such elements that create a large number of overlaps.
+Therefore, there are seven keys on the top row that have a dual purpose, mostly for traditional characters. 
+These are marked with the characters 馬車金糸言食門.
+
+Here are some examples traditional characters that follow the same pattern as described above:
+
+駝 **WWAY**, 軛 **EKA**, 鉐 **RKXH**, 絀 **UFXN**, 諚 **IWGO**, 饀 **OIWH**, 閶 **PXHH**
+
+All the 13 special elements / characters can be written with their ordinary strokes.
+This means for example that you don't have to remember the placcement of 金,糸 or 言
+if you mainly write simplified characters. You can write any simplified character using 4-codes
+by just remembering the 6 elements on the middle row.
+
+Here are all the possible codes for 13 sharacters and their derived forms (including radicals):
+
+- 虫 szzz, xjlzzz, s
+- ⾍ szzz, xjlzzz, s
+- 木 dzzz, jozzzz, d
+- ⽊ dzzz, jozzzz, d
+- 竹 fzzz, yelzzz, f
+- ⺮ fzzz, yelzzz, f
+- 足 xjjhzz, xjjh, xjmz, xjmzzz, j
+- ⻊xjjh, xjjhzz, j
+- ⾜ jzzz, xjmzzz, xjjhzz, j
+- 目 kzzz, xhhzzz, k
+- 手 lzzz, yjzzzz, l
+- ⼿ lzzz, yjzzzz, l
+- 扌 lzzz, jhzzzz, l
+- ⺘ lzzz, jhzzzz, l
+- 馬 wzzz, jhxwwz, nhxwwz, w
+- ⾺ wzzz, jhxwwz, nhxwwz, w
+- 車 ezzz, jghnzz, e
+- ⾞ ezzz, jghnzz, e
+- 金 rzzz, ohcyzz, r
+- ⾦ rzzz, ohcyzz, r
+- 糹 uzzz, awwzzz, arozzz, u
+- ⺯ uzzz, awwzzz, arozzz, u
+- ⽷ uzzz, awwzzz, arozzz, u
+- 糸 awwz, aroz, awwzzz, arozzz. u
+- 言 izzz, thxhzz, hhxhzz, i
+- 訁 izzz, thxhzz, hhxhzz, i
+- ⾔ izzz, thxhzz, hhxhzz, i
+- 食 oqhs, oqhnhz, omhh, omhs, oqhh, oqhszz, omhszz, omhnhz, o
+- 飠 ozzz, oqhnhz, oqhszz, omhszz, omhnhz, o
+- ⾷ ozzz, oqhnhz, oqhszz, omhszz, omhnhz, o
+- ⻝ oqhs, oqhnhz, omhh, omhs, oqhh, oqhszz, omhszz, omhnhz, o
+- ⻞ ozzz, oqhnhz, oqhszz, omhszz, omhnhz, o
+- ⻟ ozzz, oqhnhz, oqhszz, omhszz, omhnhz, o
+- 門 pzzz, xhxhzz, p
+- ⾨ pzzz, xhxhzz, p
+
+# Character Overlaps
 
 Part of the goal of Liuma is that almost all common characters should be written
-without scrolling. The most common 5.000 was chosen as the target.
+without scrolling past the first nine options when you write a code.
+The most common 5.000 was chosen as the target.
 This means that when ever you write a code, no character among the most
 common 5.000 should be beyond the first 9 character options shown.
 The most common 5.000 was picked as a target because it provided 
@@ -119,8 +200,15 @@ among the most common 6.000 where you have to scroll to see them when using the 
 - ejoo  糇 5898,
 - yhso  锿 5941,
 
+The code used to write them is on the left, and the number to the right of each character
+is how common the characters is among all characters in the frequency list.
 Notice that the most common of these, 題, is the traditional form of 题. The character 题 can be written
 without scrolling.
+
+If you take all the characters the frequency list where you have to scroll, 
+there are a total of 246 characters. Their frequency, meaning how often they occur, is about 8.53E-6.
+This means that in simplified texts,
+you will encounter one of these 246 characters roughly once in 100.000 characters.
 
 For traditional characters, using Liumafan, it looks like this:
 (Using the frequency list here: http://technology.chtsai.org/charfreq/sorted.html)
@@ -131,39 +219,9 @@ For traditional characters, using Liumafan, it looks like this:
 - xhjo  暪 5811,
 - wjgo  漯 5821,
 
-The approach of having each key stand for two strokes goes a long way to avoid character collisions,
-but it was not enough to achieve the target of 5.000. For both simplified and traditional characters,\
-there are too many that start with the following shapes/elements:
+There are a total of 416 different such characters, and their frequency is about 4.16E-6.
+This means that in traditional texts, you will encounter one of them roughly once in 200.000 characters.
 
-虫 木 ⺮ ⻊目 扌.
-
-Therefore, six of the keys on the middle row have a dual purpose: 
-they either stand for the two strokes like normal, or they 
-stand for one of the six elements above.
-For aesthetic reasons, I chose to also let the characters: 竹 足 手 be written
-with the relevant keys as well as ⺮ ⻊and 扌.
-
-Here are som examples:
-- 蚜 **SMVZ**  - s here stands for 虫 rather than 乙 + 丶. **mv** stands for the 4 strokes in 牙. The **Z** at the end is added 
-to the code to make the code four letters long.
-- 棧 **DMEE** - d here stands for 木 rather than 乙 + 丿. **mee** stands for the first 4 and last 2 strokes in 戔.
-- 筞 **FWGO** - f here stands for ⺮ rather than 乙 + 亅. **wgo** stands for the first 4 and last two strokes in 宋.
-as you can see from 筞, when for example 木 occur later, it is not written with the **D** key.
-Instead it is written with strokes as normal. Another example is 林 which is written **DJO** not **DD**.
-- 跐 **JNND** - j here stands for ⻊ rather than 一 + 亅. **nnd** stands for the first 4 and last two strokes in 此
-notice that the last shape 匕 can be written either as **D** 乙 + 丿 or as **M** 一 + 乙. 
-So you could also write 跐 as jnnm if you want. Many characters can be written in different ways if the 
-stroke order is not 100% clear.
-- 眬 **KKDT** - k here stands for 目 rather than 一 + 丿. **KDT** stands for the 5 strokes in 龙. The letter **T** 
-stands for the last 丶. This is because when you write only a single stroke, you use the letter that has 一 as is second
-stroke. These are the keys T,Y,G,H and N.
-- 揂 **LEJH** - l here stands for 扌 rather than 一 + 丶. **EJH** stands for the first 4 and last two strokes in 酋.
-
-For traditional characters, there are even more such elements that create a large number of overlaps.
-You can find the elements needed to write traditional characters on the top row of the keyboard.
-Here are some examples that each follow the same pattern as described above:
-
-駝 **WWAY**, 軛 **EKA**, 鉐 **RKXH**, 絀 **UFXN**, 諚 **IWGO**, 饀 **OIWH**, 閶 **PXHH**
 
 # Avoiding the special elements
 
@@ -194,6 +252,9 @@ For Traditional characters, using the 6-codes, these are the characters among th
 past the first 9 options when using the frequency list here: http://technology.chtsai.org/charfreq/sorted.html:
 
 - jhxwwo / nhxwwo  騾 5168, 驃 5281, 騄 5405, 
+
+There are a total of 125 different such characters, and their frequency is about 2.54E-6.
+This means that in traditional texts, you will encounter one of them roughly once in 400.000 characters.
 
 
 # Multi-character words and phrases
