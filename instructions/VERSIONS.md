@@ -22,3 +22,7 @@ Also added varius radical characters to be written with one letter.
 
 Fixed an error where two-character words were written with the first and last 
 single character keystrokes, rather than the first code letter and the last two brushstrokes.
+
+## 1.3 - 2024-12-11
+
+Fixed a bug where the special characters / elements couldn't be written with strokes.

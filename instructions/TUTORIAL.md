@@ -139,44 +139,6 @@ This means for example that you don't have to remember the placcement of 金,糸
 if you mainly write simplified characters. You can write any simplified character using 4-codes
 by just remembering the 6 elements on the middle row.
 
-Here are all the possible codes for 13 sharacters and their derived forms (including radicals):
-
-- 虫 szzz, xjlzzz, s
-- ⾍ szzz, xjlzzz, s
-- 木 dzzz, jozzzz, d
-- ⽊ dzzz, jozzzz, d
-- 竹 fzzz, yelzzz, f
-- ⺮ fzzz, yelzzz, f
-- 足 xjjhzz, xjjh, xjmz, xjmzzz, j
-- ⻊xjjh, xjjhzz, j
-- ⾜ jzzz, xjmzzz, xjjhzz, j
-- 目 kzzz, xhhzzz, k
-- 手 lzzz, yjzzzz, l
-- ⼿ lzzz, yjzzzz, l
-- 扌 lzzz, jhzzzz, l
-- ⺘ lzzz, jhzzzz, l
-- 馬 wzzz, jhxwwz, nhxwwz, w
-- ⾺ wzzz, jhxwwz, nhxwwz, w
-- 車 ezzz, jghnzz, e
-- ⾞ ezzz, jghnzz, e
-- 金 rzzz, ohcyzz, r
-- ⾦ rzzz, ohcyzz, r
-- 糹 uzzz, awwzzz, arozzz, u
-- ⺯ uzzz, awwzzz, arozzz, u
-- ⽷ uzzz, awwzzz, arozzz, u
-- 糸 awwz, aroz, awwzzz, arozzz. u
-- 言 izzz, thxhzz, hhxhzz, i
-- 訁 izzz, thxhzz, hhxhzz, i
-- ⾔ izzz, thxhzz, hhxhzz, i
-- 食 oqhs, oqhnhz, omhh, omhs, oqhh, oqhszz, omhszz, omhnhz, o
-- 飠 ozzz, oqhnhz, oqhszz, omhszz, omhnhz, o
-- ⾷ ozzz, oqhnhz, oqhszz, omhszz, omhnhz, o
-- ⻝ oqhs, oqhnhz, omhh, omhs, oqhh, oqhszz, omhszz, omhnhz, o
-- ⻞ ozzz, oqhnhz, oqhszz, omhszz, omhnhz, o
-- ⻟ ozzz, oqhnhz, oqhszz, omhszz, omhnhz, o
-- 門 pzzz, xhxhzz, p
-- ⾨ pzzz, xhxhzz, p
-
 # Character Overlaps
 
 Part of the goal of Liuma is that almost all common characters should be written
@@ -219,7 +181,7 @@ For traditional characters, using Liumafan, it looks like this:
 - xhjo  暪 5811,
 - wjgo  漯 5821,
 
-There are a total of 416 different such characters, and their frequency is about 4.16E-6.
+There are a total of 416 different such characters, and their frequency is about 4.31E-6.
 This means that in traditional texts, you will encounter one of them roughly once in 200.000 characters.
 
 

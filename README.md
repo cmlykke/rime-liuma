@@ -3,7 +3,7 @@
 
 author: 劉可力 / 刘可力 c m l y k k e - h o t m a i l - c o m
 
-Version: 1.2 - 2024-11-04
+Version: 1.3 - 2024-12-11
 
 First published 2024-10-16
 
