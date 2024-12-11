@@ -181,7 +181,7 @@ For traditional characters, using Liumafan, it looks like this:
 - xhjo  暪 5811,
 - wjgo  漯 5821,
 
-There are a total of 416 different such characters, and their frequency is about 4.31E-6.
+There are a total of 419 different such characters, and their frequency is about 4.31E-6.
 This means that in traditional texts, you will encounter one of them roughly once in 200.000 characters.
 
 
