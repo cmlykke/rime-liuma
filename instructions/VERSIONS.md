@@ -26,3 +26,8 @@ single character keystrokes, rather than the first code letter and the last two 
 ## 1.3 - 2024-12-11
 
 Fixed a bug where the special characters / elements couldn't be written with strokes.
+
+## 1.4 - 2025-01-12
+
+Fixed a bug where initial special elements was ignored if the occur after a ⿺ shape or a ⿲ shape, such as
+言 in 這 or 彎
