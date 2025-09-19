@@ -3,7 +3,7 @@
 
 author: 劉可力 / 刘可力 c m l y k k e - h o t m a i l - c o m
 
-Version: 1.4 - 2025-01-12
+Version: 1.5 - 2025-09-19
 
 First published 2024-10-16
 
@@ -16,7 +16,7 @@ The Liuma keyboard:
 ![Liuma keyboard](images/liumakeyboard-v1-2.png)
 
 劉碼 / 刘码 Liuma is a shape-based input system that you can memorize in a few minutes.
-It contains 29.512 different single characters, and 179.799 multi-character words
+It contains 28.312 different single characters, and 179.752 multi-character words
 (counting traditional and simplified words separately).
 You can write any of the 5.000 most common characters without having to scroll,
 using only 4 letters per character (plus selection using the number keys).

@@ -31,3 +31,8 @@ Fixed a bug where the special characters / elements couldn't be written with str
 
 Fixed a bug where initial special elements was ignored if the occur after a ⿺ shape or a ⿲ shape, such as
 言 in 這 or 彎
+
+## 1.5 - 2025-09-19
+
+木 is now interpreted as the initial element of 本. 
+Elements like 食飠⾷⻟⻞⻝ are now placed after "ordinary" characters like 人入八 in priority.
