@@ -53,4 +53,57 @@ https://github.com/rime
 
 [Character and word data](instructions/CHARACTER_AND_WORD_DATA.md).
 
+## Other Input Methods
+
+For those interested in other methods, here are some learning resources:
+(they are roughly ordered by the availability of resources in english)
+
+* In general:
+Here is a curated list of RIME input methods:
+- https://github.com/ayaka14732/awesome-rime
+
+* Cangjie 5
+- wikipedia:
+- https://en.wikipedia.org/wiki/Cangjie_input_method
+- Interactive guide (in english) (incomplete but very usefull):
+- https://learningcangjie.com/demo/
+- Cangjie typing practice (in english)
+- https://cjtt.bzzt.io/
+- For RIME IME on github:
+- https://github.com/rime/rime-cangjie
+- https://github.com/gkovacs/rime-cangjie-tradsimp
+
+* Wubi
+- Classic text guide (in english)
+- https://chinesemac.org/wubi/xing.html
+- Interactive guid (in english):
+- https://ndldd.github.io/wubi-trainer/app/#/info
+- Youtube guide:五笔字型 Typing Chinese with WuBi, Video 1, lesson for beginners
+https://www.youtube.com/watch?v=v_w-Q6hDzL8
+- For RIME IME on github:
+- https://github.com/rime/rime-wubi
+- https://github.com/KyleBing/rime-wubi86-jidian
+- https://github.com/sheepduke/rime-config
+
+* Zhengma:
+-  wikibook: 
+- https://en.wikibooks.org/wiki/Zhengma_Input
+- For RIME IME on github:
+- https://github.com/Openvingen/rime-zhengma/
+- https://github.com/vfreex/rime-zhengma
+- https://github.com/chen32768/zhengma_for_rime
+
+* Hanglie30 (Array30):
+- wikibook:
+- https://en.wikibooks.org/wiki/Guide_to_Array_input
+- For RIME IME on github:
+- https://github.com/rime/rime-array
+- https://github.com/archerindigo/rime-array
+- https://github.com/Reniastyc/RIME_array30_ex
+
+* Dayi 4:
+- wikibook:
+- https://en.wikibooks.org/wiki/Guide_to_Dayi_input
+- For RIME IME on github:
+- https://github.com/chiahsien/RimeDayi
 
