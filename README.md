@@ -107,3 +107,27 @@ https://www.youtube.com/watch?v=v_w-Q6hDzL8
 - For RIME IME on github:
 - https://github.com/chiahsien/RimeDayi
 
+* Huma:
+- officiel website:
+- https://www.tiger-code.com/
+- For RIME IME on github:
+- https://github.com/ywxt/rime-huma
+- https://github.com/humaIME/huma
+- https://github.com/pimgeek/zen-tiger-code
+- https://github.com/impishian/rime-ice-ziranma-zhengma-huma
+
+* Xuma
+- guide (chinese)
+- https://ace-who.github.io/rime-xuma/
+- For RIME IME on github:
+- https://github.com/Ace-Who/rime-xuma?tab=readme-ov-file
+
+* Yuhao:
+- official website:
+- https://shurufa.app/
+- For RIME IME on github:
+- https://github.com/forfudan/yuhao-ime-release
+
+
+
+
