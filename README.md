@@ -76,7 +76,7 @@ Here is a curated list of RIME input methods:
 * Wubi
 - Classic text guide (in english)
 - https://chinesemac.org/wubi/xing.html
-- Interactive guid (in english):
+- Interactive guide (in english):
 - https://ndldd.github.io/wubi-trainer/app/#/info
 - Youtube guide:五笔字型 Typing Chinese with WuBi, Video 1, lesson for beginners
 https://www.youtube.com/watch?v=v_w-Q6hDzL8
@@ -108,7 +108,7 @@ https://www.youtube.com/watch?v=v_w-Q6hDzL8
 - https://github.com/chiahsien/RimeDayi
 
 * Huma:
-- officiel website:
+- officiel website (chinese):
 - https://www.tiger-code.com/
 - For RIME IME on github:
 - https://github.com/ywxt/rime-huma
@@ -123,7 +123,7 @@ https://www.youtube.com/watch?v=v_w-Q6hDzL8
 - https://github.com/Ace-Who/rime-xuma?tab=readme-ov-file
 
 * Yuhao:
-- official website:
+- official website (chinese):
 - https://shurufa.app/
 - For RIME IME on github:
 - https://github.com/forfudan/yuhao-ime-release
