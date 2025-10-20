@@ -62,6 +62,20 @@ For those interested in other methods, here are some learning resources:
 Here is a curated list of RIME input methods:
 - https://github.com/ayaka14732/awesome-rime
 
+* Wubi
+- Classic text guide (in english)
+- https://chinesemac.org/wubi/xing.html
+- Interactive guide (in english):
+- https://ndldd.github.io/wubi-trainer/app/#/info
+- Youtube guide:五笔字型 Typing Chinese with WuBi, Video 1, lesson for beginners
+- https://www.youtube.com/watch?v=v_w-Q6hDzL8
+- Online practice site (in english)
+- https://ndldd.github.io/wubi-trainer/app/#/info
+- For RIME IME on github:
+- https://github.com/rime/rime-wubi
+- https://github.com/KyleBing/rime-wubi86-jidian
+- https://github.com/sheepduke/rime-config
+
 * Cangjie 5
 - wikipedia:
 - https://en.wikipedia.org/wiki/Cangjie_input_method
@@ -72,18 +86,6 @@ Here is a curated list of RIME input methods:
 - For RIME IME on github:
 - https://github.com/rime/rime-cangjie
 - https://github.com/gkovacs/rime-cangjie-tradsimp
-
-* Wubi
-- Classic text guide (in english)
-- https://chinesemac.org/wubi/xing.html
-- Interactive guide (in english):
-- https://ndldd.github.io/wubi-trainer/app/#/info
-- Youtube guide:五笔字型 Typing Chinese with WuBi, Video 1, lesson for beginners
-https://www.youtube.com/watch?v=v_w-Q6hDzL8
-- For RIME IME on github:
-- https://github.com/rime/rime-wubi
-- https://github.com/KyleBing/rime-wubi86-jidian
-- https://github.com/sheepduke/rime-config
 
 * Zhengma:
 -  wikibook: 
