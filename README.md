@@ -131,5 +131,16 @@ Here is a curated list of RIME input methods:
 - https://github.com/forfudan/yuhao-ime-release
 
 
+## Other Chinese site
+
+* Sites where you can read texts:
+- https://www.dotlanguages.com/features/
+- Todaii: Easy Chinese - https://play.google.com/store/apps/details?id=mobi.eup.cnnews&hl=en
+- https://www.maayot.com/
+- https://mandarinbean.com/
+- https://tadouchinese.com/
+- https://www.thechairmansbao.com/
+- https://www.lingq.com/en/learn-chinese-online/
+- 
 
 
