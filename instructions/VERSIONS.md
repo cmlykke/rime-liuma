@@ -36,3 +36,7 @@ Fixed a bug where initial special elements was ignored if the occur after a ⿺ 
 
 木 is now interpreted as the initial element of 本. 
 Elements like 食飠⾷⻟⻞⻝ are now placed after "ordinary" characters like 人入八 in priority.
+
+## 1.6 - 2025-11-13
+
+fixed a lot of character code bugs, and introduced two letter codes for common single characters
