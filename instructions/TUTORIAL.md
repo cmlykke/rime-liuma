@@ -165,15 +165,20 @@ If the target had been 6.000 or greater, Liuma would have been significantly har
 without much extra benefit. Suppose you want to write characters among the 6.000
 most common: 
 
-For singlified characters and using Liumajian, these are the only characters
+For singlified characters and using Liumajian, these are the characters
 among the most common 6.000 where you have to scroll to see them when using the Liuma 4-codes:
 (Using the frequency list here: https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO)
 
-- xhjo  題 5105, 嗉 5351,  
-- jnho  聩 5209, 綦 5599,
-- kxho  砹 5772, 硖 5856,
-- ejoo  糇 5898,
-- yhso  锿 5941,
+- 藥* 3734 jjuo njuo 
+- 類* 4915 ejoo
+- 長* 4933 jhmo nhmo
+- 聩 5209 綦 5599 jnho
+- 嗉 5351 題 5105 xhjo
+- 砹 5772 硖 5856 kxho
+- 锿 5941 yhso
+- 鮈 5959 pxjg
+- 難 5970 jnxn
+- * These three characters 藥, 類, 長 are actually traditional. Here are their simplified equivalents: 药 类 长
 
 The code used to write them is on the left, and the number to the right of each character
 is how common the characters is among all characters in the frequency list.
@@ -188,11 +193,21 @@ you will encounter one of these 246 characters roughly once in 100.000 character
 For traditional characters, using Liumafan, it looks like this:
 (Using the frequency list here: http://technology.chtsai.org/charfreq/sorted.html)
 
-- jnxo  鞅 5412, 顴 5454, 茦 5879,
-- kxho  饜 5477, 戛 5769,
-- xjgo  嘳 5724,
-- xhjo  暪 5811,
-- wjgo  漯 5821,
+
+- 葔* 3572 jjuo njuo
+- 秝 5100 yveo
+- 瑮 5135 hnjo
+- 鞅 5412 顴 5454 茦 5879 jnxo
+- 饜 5477 戛 5769 kxho
+- 魽 5613 pxjh
+- 荺 5624 njjh jjjh
+- 蓳 5631 jjjn njjn
+- 鰡 5650 pxjn
+- 芵 5661 jjgo
+- 嘳 5724 xjgo
+- 暪 5811 xhjo
+- 漯 5821 wjgo
+- * The character 葔 is not found in the Cedict dictionary. A quick AI lookup said that it refers to plants growing in or near water, and is found mostly in classical texts.
 
 There are a total of 419 different such characters, and their frequency is about 4.31E-6.
 This means that in traditional texts, you will encounter one of them roughly once in 200.000 characters.
