@@ -59,7 +59,7 @@ the strokes 1-2 below count as horizontal (一), stroke 3-4 count as vertical (�
 stroke 5 count as left-slanted (丿), stroke 6-7 count as right-slanted (丶) 
 and all the strokes 8-32 count as bent (乙).
 
-![Liuma strokes](../images/Strokes_marked.png)
+![Liuma strokes](../images/Strokes-marked.png)
 
 In Liuma, the combinations are placed such that 
 combinations that start with the same strokes 
@@ -72,7 +72,7 @@ as you can see on the keyboard below:
 This overview might be a bit unclear. Here is another way of presenting it that might make it
 clearer:
 
-![Liuma keyboard_with_first_stroke)_emphasised](../images/liumakeyboard-v1-2_marked.png)
+![Liuma keyboard_with_first_stroke)_emphasised](../images/liumakeyboard-v1-2-marked.png)
 
 
 Even though this approach half's the amount of keystrokes
