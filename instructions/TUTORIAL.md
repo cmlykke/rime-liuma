@@ -59,7 +59,7 @@ the strokes 1-2 below count as horizontal (一), stroke 3-4 count as vertical (�
 stroke 5 count as left-slanted (丿), stroke 6-7 count as right-slanted (丶) 
 and all the strokes 8-32 count as bent (乙).
 
-![Liuma strokes](../images/Strokes-marked.png)
+![Liuma strokes](../images/strokes-marked.png)
 
 In Liuma, the combinations are placed such that 
 combinations that start with the same strokes 
