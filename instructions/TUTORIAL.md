@@ -231,10 +231,10 @@ Traditional:
 For Traditional characters, using the 6-codes, these are the characters among the most common 6.000 where you have to scoll 
 past the first 9 options when using the frequency list here: http://technology.chtsai.org/charfreq/sorted.html:
 
-- jhxwwo / nhxwwo  騾 5168, 驃 5281, 騄 5405, 
-
-There are a total of 125 different such characters, and their frequency is about 2.54E-6.
-This means that in traditional texts, you will encounter one of them roughly once in 400.000 characters.
+- 騾 5168 驃 5281 騄 5405 jhxwwo
+- 騾 5168 驃 5281 騄 5405 nhxwwo
+- 魽 5613 pxjlwh
+- 鰡 5650 pxjlwn
 
 
 # Multi-character words and phrases
