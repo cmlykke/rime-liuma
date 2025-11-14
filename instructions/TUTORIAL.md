@@ -180,15 +180,8 @@ among the most common 6.000 where you have to scroll to see them when using the 
 - 難 5970 jnxn
 - * These three characters 藥, 類, 長 are actually traditional. Here are their simplified equivalents: 药 类 长
 
-The code used to write them is on the left, and the number to the right of each character
+The code used to write them is on the far right, and the number just to the right of each character
 is how common the characters is among all characters in the frequency list.
-Notice that the most common of these, 題, is the traditional form of 题. The character 题 can be written
-without scrolling.
-
-If you take all the characters the frequency list where you have to scroll, 
-there are a total of 246 characters. Their frequency, meaning how often they occur, is about 8.53E-6.
-This means that in simplified texts,
-you will encounter one of these 246 characters roughly once in 100.000 characters.
 
 For traditional characters, using Liumafan, it looks like this:
 (Using the frequency list here: http://technology.chtsai.org/charfreq/sorted.html)
@@ -208,9 +201,6 @@ For traditional characters, using Liumafan, it looks like this:
 - 暪 5811 xhjo
 - 漯 5821 wjgo
 - * The character 葔 is not found in the Cedict dictionary. A quick AI lookup said that it refers to plants growing in or near water, and is found mostly in classical texts.
-
-There are a total of 419 different such characters, and their frequency is about 4.31E-6.
-This means that in traditional texts, you will encounter one of them roughly once in 200.000 characters.
 
 
 # Avoiding the special elements
