@@ -131,7 +131,7 @@ Here is a curated list of RIME input methods:
 - https://github.com/forfudan/yuhao-ime-release
 
 
-## Other Chinese site
+## Sites for practicing Chinese by reading:
 
 * Sites where you can read texts:
 - https://www.dotlanguages.com/features/

@@ -48,11 +48,18 @@ preferably no more than 4 like with Wubi and Zhengma.
 
 Liuma attempt to solve this by having each key write two strokes.
 All characters can be broken up into a list of 5 strokes:
-horizontal 一, vertical 丨, left-slanted 丿, right-slanted 丶, and bent 乙.
+horizontal 一, vertical 亅, left-slanted 丿, right-slanted 丶, and bent 乙.
 If you take all possible two-stroke combinations of these, you get 25 (5*5)
 possible combinations.
 You can then have each key on the keyboard write a different 
 two-stroke combination.
+
+Here is a list of the strokes used to write chinese characters. For the purpose of writing with liuma,
+the strokes 1-2 below count as horizontal (一), stroke 3-4 count as vertical (亅), 
+stroke 5 count as left-slanted (丿), stroke 6-7 count as right-slanted (丶) 
+and all the strokes 8-32 count as bent (乙).
+
+![Liuma strokes](../images/Strokes_marked.png)
 
 In Liuma, the combinations are placed such that 
 combinations that start with the same strokes 
@@ -61,6 +68,12 @@ then vertical, left-slanted, right-slanted and bent stroke towards the sides of 
 as you can see on the keyboard below:
 
 ![Liuma keyboard](../images/liumakeyboard-v1-2.png)
+
+This overview might be a bit unclear. Here is another way of presenting it that might make it
+clearer:
+
+![Liuma keyboard_with_first_stroke)_emphasised](../images/liumakeyboard-v1-2_marked.png)
+
 
 Even though this approach half's the amount of keystrokes
 you need to write a character compared with Wubihua, to keep
