@@ -2,6 +2,13 @@
 
 # install on android
 
+## Video guide (2025-11-16):
+https://youtu.be/WI1qdzjMR1A
+
+<video src="https://youtu.be/WI1qdzjMR1A" controls></video>
+
+## Text guide:
+
 To install RIME on an android phone / tablet, here is one way you can do it:
 
 1: Go to the F-droid website: https://f-droid.org/en/
