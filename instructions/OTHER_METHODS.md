@@ -12,7 +12,7 @@ For those interested in other methods, here are some learning resources:
 
 ### Cangjie 5 倉頡
 
-![Cangjie keyboard](../images/othermethods/cangjiev2.jpg)
+![Cangjie keyboard](../images/othermethods/cangjiekeyboard2.png)
 
 ![Cangjie example](../images/othermethods/cangjieeks.jpg)
 
@@ -133,7 +133,7 @@ For those interested in other methods, here are some learning resources:
 
 ![CKC keyboard](../images/othermethods/ckc.png)
 
-![CKC example](../images/othermethods/ckceks.png)
+![CKC example](../images/othermethods/CKCeks2.png)
 
 - wikibook:
 - https://en.wikipedia.org/wiki/CKC_Chinese_Input_System

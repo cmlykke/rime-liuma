@@ -67,7 +67,7 @@ are put together on the same line, ordered with the horizontal stroke near the c
 then vertical, left-slanted, right-slanted and bent stroke towards the sides of the keyboard, 
 as you can see on the keyboard below:
 
-![Liuma keyboard](../images/liumakeyboard-v1-2.png)
+![Liuma keyboard](../images/liumakeyboard-v1-2plus.png)
 
 This overview might be a bit unclear. Here is another way of presenting it that might make it
 clearer:
