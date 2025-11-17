@@ -12,9 +12,9 @@ For those interested in other methods, here are some learning resources:
 
 ### Cangjie 5 倉頡
 
-![Cangjie keyboard](images/othermethods/cangjiev2.jpg)
+![Cangjie keyboard](../images/othermethods/cangjiev2.jpg)
 
-![Cangjie example](images/othermethods/cangjieeks.jpg)
+![Cangjie example](../images/othermethods/cangjieeks.jpg)
 
 - wikipedia:
 - https://en.wikipedia.org/wiki/Cangjie_input_method
@@ -28,7 +28,7 @@ For those interested in other methods, here are some learning resources:
 
 ### Wubi 86 五笔字型
 
-![Wubi keyboard](images/othermethods/wubi.png)
+![Wubi keyboard](../images/othermethods/wubi.png)
 
 - Classic text guide (in english)
 - https://chinesemac.org/wubi/xing.html
@@ -45,11 +45,11 @@ For those interested in other methods, here are some learning resources:
 
 ### Hanglie30 (Array30) 行列
 
-![Hanglie30 keyboard](images/othermethods/array30.png)
+![Hanglie30 keyboard](../images/othermethods/array30.png)
 
-![Hanglie30 elements](images/othermethods/arrayelems.png)
+![Hanglie30 elements](../images/othermethods/arrayelems.png)
 
-![Hanglie30 example](images/othermethods/array30eks.png)
+![Hanglie30 example](../images/othermethods/array30eks.png)
 
 
 - wikibook:
@@ -63,7 +63,7 @@ For those interested in other methods, here are some learning resources:
 
 ### Zhengma 郑码
 
-![zhengma keyboard](images/othermethods/zhengma.jpg)
+![zhengma keyboard](../images/othermethods/zhengma.jpg)
 
 -  wikibook:
 - https://en.wikibooks.org/wiki/Zhengma_Input
@@ -76,11 +76,11 @@ For those interested in other methods, here are some learning resources:
 
 ### Dayi 4 大易
 
-![dayi keyboard](images/othermethods/dayi.png)
+![dayi keyboard](../images/othermethods/dayi.png)
 
-![dayi keyboard](images/othermethods/dayielems.jpg)
+![dayi keyboard](../images/othermethods/dayielems.jpg)
 
-![dayi example](images/othermethods/dayieks.png)
+![dayi example](../images/othermethods/dayieks.png)
 
 - official website (in chinese):
 - http://www.dayi.com/
@@ -91,7 +91,7 @@ For those interested in other methods, here are some learning resources:
 
 ### Huma 虎码
 
-![huma keyboard](images/othermethods/huma.png)
+![huma keyboard](../images/othermethods/huma.png)
 
 
 - officiel website (chinese):
@@ -104,7 +104,7 @@ For those interested in other methods, here are some learning resources:
 
 ### Xuma 徐码
 
-![xuma keyboard](images/othermethods/xuma.jpg)
+![xuma keyboard](../images/othermethods/xuma.jpg)
 
 - guide (chinese)
 - https://ace-who.github.io/rime-xuma/
@@ -113,7 +113,7 @@ For those interested in other methods, here are some learning resources:
 
 ### Yuhao 宇浩
 
-![yuhao keyboard](images/othermethods/xuma.jpg)
+![yuhao keyboard](../images/othermethods/xuma.jpg)
 
 - official website (chinese):
 - https://shurufa.app/
@@ -122,7 +122,7 @@ For those interested in other methods, here are some learning resources:
 
 ### San ma 三碼
 
-![sanma keyboard](images/othermethods/sanma.png)
+![sanma keyboard](../images/othermethods/sanma.png)
 
 - An input method created by Gemini AI!
 - Facebook group:
@@ -131,9 +131,9 @@ For those interested in other methods, here are some learning resources:
 
 ### CKC (zònghéng) 縱橫
 
-![CKC keyboard](images/othermethods/ckc.png)
+![CKC keyboard](../images/othermethods/ckc.png)
 
-![CKC example](images/othermethods/ckceks.png)
+![CKC example](../images/othermethods/ckceks.png)
 
 - wikibook:
 - https://en.wikipedia.org/wiki/CKC_Chinese_Input_System
@@ -147,9 +147,9 @@ For those interested in other methods, here are some learning resources:
 
 ### G6 六碼筆畫
 
-![g6 keyboard](images/othermethods/g6.png)
+![g6 keyboard](../images/othermethods/g6.png)
 
-![g6 example](images/othermethods/g6eks.png)
+![g6 example](../images/othermethods/g6eks.png)
 
 - PDF tutorial:
 - https://www.pascal-man.com/navigation/faq-java-browser/2009_SMC_G6.pdf
