@@ -53,92 +53,21 @@ https://github.com/rime
 
 [Character and word data](instructions/CHARACTER_AND_WORD_DATA.md).
 
-## Other Input Methods
+## Other input methods:
 
-For those interested in other methods, here are some learning resources:
-(they are roughly ordered by the availability of resources in english)
+[Other input methods](instructions/OTHER_METHODS.md).
 
-* In general:
-Here is a curated list of RIME input methods:
-- https://github.com/ayaka14732/awesome-rime
+## Other Chinese related links:
 
-* Wubi
-- Classic text guide (in english)
-- https://chinesemac.org/wubi/xing.html
-- Interactive guide (in english):
-- https://ndldd.github.io/wubi-trainer/app/#/info
-- Youtube guide:五笔字型 Typing Chinese with WuBi, Video 1, lesson for beginners
-- https://www.youtube.com/watch?v=v_w-Q6hDzL8
-- Online practice site (in english)
-- https://ndldd.github.io/wubi-trainer/app/#/info
-- For RIME IME on github:
-- https://github.com/rime/rime-wubi
-- https://github.com/KyleBing/rime-wubi86-jidian
-- https://github.com/sheepduke/rime-config
+### Youtube video playlist:
+- https://www.youtube.com/playlist?list=PL-qvMDmLnP5NDcoSS35-P2bFExHaf6uyp
 
-* Cangjie 5
-- wikipedia:
-- https://en.wikipedia.org/wiki/Cangjie_input_method
-- Interactive guide (in english) (incomplete but very usefull):
-- https://learningcangjie.com/demo/
-- Cangjie typing practice (in english)
-- https://cjtt.bzzt.io/
-- For RIME IME on github:
-- https://github.com/rime/rime-cangjie
-- https://github.com/gkovacs/rime-cangjie-tradsimp
-
-* Zhengma:
--  wikibook: 
-- https://en.wikibooks.org/wiki/Zhengma_Input
-- For RIME IME on github:
-- https://github.com/Openvingen/rime-zhengma/
-- https://github.com/vfreex/rime-zhengma
-- https://github.com/chen32768/zhengma_for_rime
-
-* Hanglie30 (Array30):
-- wikibook:
-- https://en.wikibooks.org/wiki/Guide_to_Array_input
-- For RIME IME on github:
-- https://github.com/rime/rime-array
-- https://github.com/archerindigo/rime-array
-- https://github.com/Reniastyc/RIME_array30_ex
-
-* Dayi 4:
-- wikibook:
-- https://en.wikibooks.org/wiki/Guide_to_Dayi_input
-- For RIME IME on github:
-- https://github.com/chiahsien/RimeDayi
-
-* Huma:
-- officiel website (chinese):
-- https://www.tiger-code.com/
-- For RIME IME on github:
-- https://github.com/ywxt/rime-huma
-- https://github.com/humaIME/huma
-- https://github.com/pimgeek/zen-tiger-code
-- https://github.com/impishian/rime-ice-ziranma-zhengma-huma
-
-* Xuma
-- guide (chinese)
-- https://ace-who.github.io/rime-xuma/
-- For RIME IME on github:
-- https://github.com/Ace-Who/rime-xuma?tab=readme-ov-file
-
-* Yuhao:
-- official website (chinese):
-- https://shurufa.app/
-- For RIME IME on github:
-- https://github.com/forfudan/yuhao-ime-release
-
-
-## Sites for practicing Chinese by reading:
-
-* Sites where you can read texts:
+### Sites for practicing Chinese by reading:
+- https://tadouchinese.com/
 - https://www.dotlanguages.com/features/
 - Todaii: Easy Chinese - https://play.google.com/store/apps/details?id=mobi.eup.cnnews&hl=en
 - https://www.maayot.com/
 - https://mandarinbean.com/
-- https://tadouchinese.com/
 - https://www.thechairmansbao.com/
 - https://www.lingq.com/en/learn-chinese-online/
 - 
