@@ -2,6 +2,8 @@
 
 # Introduction
 
+[Here is a PDF with rules and illustrations.](../instructions/LIUMAexamples.pdf)
+
 There are many shape-based input methods, 
 so why create another one? Most existing methods take a long time to learn. 
 However, they allow you to write any character without knowing its pronunciation, 
