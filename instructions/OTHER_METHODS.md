@@ -113,7 +113,7 @@ For those interested in other methods, here are some learning resources:
 
 ### Yuhao 宇浩
 
-![yuhao keyboard](../images/othermethods/xuma.jpg)
+![yuhao keyboard](../images/othermethods/yuhao2.jpg)
 
 - official website (chinese):
 - https://shurufa.app/
