@@ -57,6 +57,8 @@ https://github.com/rime
 
 [Other input methods](instructions/OTHER_METHODS.md).
 
+[PDF version](instructions/otherinput.pdf).
+
 ## Other Chinese related links:
 
 ### Youtube video playlist:
