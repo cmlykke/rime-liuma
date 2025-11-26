@@ -30,14 +30,14 @@ For those interested in other methods, here are some learning resources:
 
 ![Wubi keyboard](../images/othermethods/wubi.png)
 
+![Wubi example](../images/othermethods/wubiexample3.png)
+
 - Classic text guide (in english)
 - https://chinesemac.org/wubi/xing.html
 - Interactive guide (in english):
 - https://ndldd.github.io/wubi-trainer/app/#/info
 - Youtube guide:五笔字型 Typing Chinese with WuBi, Video 1, lesson for beginners
 - https://www.youtube.com/watch?v=v_w-Q6hDzL8
-- Online practice site (in english)
-- https://ndldd.github.io/wubi-trainer/app/#/info
 - For RIME IME on github:
 - https://github.com/rime/rime-wubi
 - https://github.com/KyleBing/rime-wubi86-jidian
